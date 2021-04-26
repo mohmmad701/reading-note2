@@ -85,3 +85,28 @@ Like server-side scripting languages, such as PHP and ASP, JavaScript code can b
  #####  var total = sum(7,11);
  ##### //alert(total);
 </script>
+
+
+**java script (arrays)**
+
+An array is a special type of variable. It doesn't just store one value; it stores a list of values. You should consider using an array whenever you are working with a list or a set of values that are related to each other. Arrays are especially helpful when you do not know how many items a list will contain because, when you create the array, you do not need to specify how many values it will hold. If you don't know how many items a list will contain, rather than creating enough variables for a long list (when you might only use a small percentage of them), using an array is considered a better solution.
+
+**CREATING AN ARRAY**
+
+You create an array and give it a name just like you would any other variable (using the var keyword followed by the name of the array). The values are assigned to the array inside a pair of square brackets, and each value is separated by a comma. The values in the array do not need to be the same data type, so you can store a string, a number and a Boolean all in the same array. This technique for creating an array is known as an array literal. It is usually the preferred method for creating an array. You can also write each value on a separate line: colors= ['white', 'black', 'custom'];
+
+**VALUES IN ARRAYS**
+
+Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one).
+
+NUMBERING ITEMS IN AN ARRAY Each item in an array is automatically given a number called an index. This can be used to access specific items in the array.
+Consider the following array which holds three colors:
+
+var col ors;
+
+colors= ['white ' , 'black ' , ' custom'];
+
+Confusingly, index values start at 0 (not 1), so the following table shows items from the array and their corresponding index values: INDEX VALUE o 'white ' 1 'black' 2 'custom'
+
+ACCESSING & CHANGING VALUES IN AN ARRAY
+

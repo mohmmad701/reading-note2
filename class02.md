@@ -53,6 +53,6 @@ In computer science, a loop is a programming structure that repeats a sequence o
 ## We have a many type about looping:
 1.for //for(condition){what you want to write a code}
 2.while //while(condition){what you want to write a code}
-
-
+3.Do while//do/while - also loops through a block of code while a specified condition is true ex: for (i = 0; i < 5; i++) { text += “The number is “ + i + “
+”; } outbut: The number is 0 The number is 1 The number is 2 The number is 3 The number is 4
 
