@@ -11,7 +11,7 @@
   * when we finish this steps go to github and show the last update thier
   
 |    class01| [html+css](class01)|
-|    calss02|[htmk and css and js](calss02)               |
+|    calss02|[htmk and css and js](class02)               |
 |    read03|[]()               |
 |    read04|[]()               |
 |    read04|[]()               |
