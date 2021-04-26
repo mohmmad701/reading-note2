@@ -10,8 +10,8 @@
   * write the username in GitHub and write the password in GitHub
   * when we finish this steps go to github and show the last update thier
   
-|    read01| [html+css](read01)|
-|    read02|[]()               |
+|    class01| [html+css](class01)|
+|    calss02|[htmk and css and js](calss02)               |
 |    read03|[]()               |
 |    read04|[]()               |
 |    read04|[]()               |
