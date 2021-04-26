@@ -12,7 +12,7 @@
   
 |    class01| [html+css](class01)|
 |    class02|[htmk and css and js](class02)               |
-|    read03|[]()               |
+|    class03|[htmk and css and js]()               |
 |    read04|[]()               |
 |    read04|[]()               |
 |    read05|[]()               |
