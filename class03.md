@@ -50,20 +50,20 @@ Using Inline Style attribute
 Step 1: Firstly, we have to type the Html code in any text editor or open the existing Html file in the text editor in which we want to use the inline property for adding the border.
 Step 2: Now, place the cursor inside the opening tag of that text around which we want to add the border.
 # looping in javascript
-switch
-The switch statement evaluates an expression, matching the expression's value to a case clause, and executes statements associated with that case, as well as statements in cases that follow the matching case.
-let expr = 'Papayas';
-switch (expr) {
-  case 'Oranges':
-    console.log('Oranges are $0.59 a pound.');
-    break;
-  case 'Mangoes':
-  case 'Papayas':
-    console.log('Mangoes and papayas are $2.79 a pound.');
-    // expected output: "Mangoes and papayas are $2.79 a pound."
-    break;
-  default:
-    console.log(`Sorry, we are out of ${expr}.`);
+##### switch
+##### The switch statement evaluates an expression, matching the expression's value to a case clause, and executes statements associated with that case, as well as statements in ##### cases that follow the matching case.
+##### let expr = 'Papayas';
+##### switch (expr) {
+  ##### case 'Oranges':
+   ##### console.log('Oranges are $0.59 a pound.');
+   #####  break;
+  ##### case 'Mangoes':
+  ##### case 'Papayas':
+   #####  console.log('Mangoes and papayas are $2.79 a pound.');
+    ##### // expected output: "Mangoes and papayas are $2.79 a pound."
+   #####  break;
+  ##### default:
+  #####  console.log(`Sorry, we are out of ${expr}.`);
 }
 instraction About javascript:
 avaScript is commonly used for creating web pages. It allows us to add dynamic behavior to the webpage and add special effects to the webpage. On websites, it is mainly used for validation purposes. JavaScript helps us to execute complex actions and also enables the interaction of websites with visitors.
@@ -75,13 +75,13 @@ JavaScript is a client-side scripting language, which means the source code is p
 
 Like server-side scripting languages, such as PHP and ASP, JavaScript code can be inserted anywhere within the HTML of a webpage. However, only the output of server-side code is displayed in the HTML, while JavaScript code remains fully visible in the source of the webpage. It can also be referenced in a separate .JS file, which may also be viewed in a browser.
 
-Below is an example of a basic JavaScript function that adds two numbers. The function is called with the parameters 7 and 11. If the code below were included in the HTML of a webpage, it would display the text "18" in an alert box.
+###### Below is an example of a basic JavaScript function that adds two numbers. The function is called with the parameters 7 and 11. If the code below were included in the HTML of a webpage, it would display the text "18" in an alert box.
 
-<script>
+##### <script>
   function sum(a,b)
   {
     return a + b;
   }
-  var total = sum(7,11);
-  alert(total);
+ #####  var total = sum(7,11);
+ ##### //alert(total);
 </script>
