@@ -13,7 +13,7 @@
 |    class01| [html+css](class01)|
 |    class02|[html and css and js](class02)               |
 |    class03|[html and css and js](class03)               |
-|    read04|[html links and css layout and js using function]()               |
+|    class04|[html links and css layout and js using function] (class04)              |
 |    read04|[]()               |
 |    read05|[]()               |
 |    read06|[]()               |
