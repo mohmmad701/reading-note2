@@ -20,6 +20,7 @@ Both examples above are using an absolute URL (a full web address) in the href a
 
 A local link (a link to a page within the same website) is specified with a relative URL (without the "https://www" part):
 
+
 Example
 <h2>Absolute URLs</h2>
 <p><a href="https://www.w3.org/">W3C</a></p>
@@ -120,3 +121,4 @@ This example accesses the fullName() method of a person object:
 
 Example
 name = person.fullName();
+![about function](https://miro.medium.com/max/2106/1*65-jFc67sI1B5zRm_91vyQ.png)
