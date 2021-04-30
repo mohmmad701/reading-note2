@@ -52,10 +52,10 @@ Example
 Use the CSS float property to let the image float to the right or to the left of a text:
 
 Example
-//<p><img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
+<p><img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
 The image will float to the right of the text.</p>
 
-//<p><img src="smiley.gif" alt="Smiley face" style="float:left;width:42px;height:42px;">
+<p><img src="smiley.gif" alt="Smiley face" style="float:left;width:42px;height:42px;">
 The image will float to the left of the text.</p>
 **Background Image on a HTML element**
 <div style="background-image: url('img_girl.jpg');">
@@ -67,8 +67,8 @@ Also, to make sure the entire element is always covered, set the background-atta
 This way, the background image will cover the entire element, with no stretching (the image will keep its original proportions):
 
 Example
-//<style>
-//body {
+<style>
+body {
   background-image: url('img_girl.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -87,37 +87,37 @@ Example
 ![colores](https://cdn.educba.com/academy/wp-content/uploads/2019/12/HTML-Colors-.png)
 HTML colors are specified with predefined color names, or with RGB, HEX, HSL, RGBA, or HSLA values.
 **Background Color**
-//<h1 style="background-color:DodgerBlue;">Hello World</h1>
-//<p style="background-color:Tomato;">Lorem ipsum...</p>
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p style="background-color:Tomato;">Lorem ipsum...</p>
 **Text Color**
-//<h1 style="color:Tomato;">Hello World</h1>
+<h1 style="color:Tomato;">Hello World</h1>
 **Border Color**
-//<h1 style="border:2px solid Tomato;">Hello World</h1>
+<h1 style="border:2px solid Tomato;">Hello World</h1>
 **Color Values**
 In HTML, colors can also be specified using RGB values, HEX values, HSL values, RGBA values, and HSLA values.
 
 The following three <div> elements have their background color set with RGB, HEX, and HSL
-//<h1 style="background-color:rgb(255, 99, 71);">...</h1>
-//<h1 style="background-color:#ff6347;">...</h1>
-//<h1 style="background-color:hsl(9, 100%, 64%);">...</h1>
+<h1 style="background-color:rgb(255, 99, 71);">...</h1>
+<h1 style="background-color:#ff6347;">...</h1>
+<h1 style="background-color:hsl(9, 100%, 64%);">...</h1>
 
-//<h1 style="background-color:rgba(255, 99, 71, 0.5);">...</h1>
-//<h1 style="background-color:hsla(9, 100%, 64%, 0.5);">...</h1>
+<h1 style="background-color:rgba(255, 99, 71, 0.5);">...</h1>
+<h1 style="background-color:hsla(9, 100%, 64%, 0.5);">...</h1>
 ## HTML Text Formatting
 ![text](https://i.stack.imgur.com/8wzO2.png)
 HTML Formatting Elements
 Formatting elements were designed to display special types of text:
 
-//<b> - Bold text ////<b>This text is bold</b>
-//<strong> - Important text
-//<i> - Italic text //<i>This text is italic</i>
-//<em> - Emphasized text
-//<mark> - Marked text
-//<small> - Smaller text
-//<del> - Deleted text
-//<ins> - Inserted text
-//<sub> - Subscript text
-//<sup> - Superscript text
+<b> - Bold text <b>This text is bold</b>
+<strong> - Important text
+<i> - Italic text //<i>This text is italic</i>
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
 
 
 
