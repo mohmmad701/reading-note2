@@ -84,7 +84,7 @@ body {
 5. .png
 
 ## HTML Colors
-![colores](https://cdn.educba.com/academy/wp-content/uploads/2019/12/HTML-Colors-.png)
+![color](https://i.pinimg.com/originals/7b/f7/c6/7bf7c6e53128592dcd608f368571821c.gif)
 HTML colors are specified with predefined color names, or with RGB, HEX, HSL, RGBA, or HSLA values.
 **Background Color**
 <h1 style="background-color:DodgerBlue;">Hello World</h1>
@@ -104,8 +104,10 @@ The following three <div> elements have their background color set with RGB, HEX
 <h1 style="background-color:rgba(255, 99, 71, 0.5);">...</h1>
 <h1 style="background-color:hsla(9, 100%, 64%, 0.5);">...</h1>
 ## HTML Text Formatting
-![text](https://i.stack.imgur.com/8wzO2.png)
+
+
 HTML Formatting Elements
+![text](https://cdn.educba.com/academy/wp-content/uploads/2019/06/HTML-Format-Tags-1.jpg)
 Formatting elements were designed to display special types of text:
 
 <b> - Bold text <b>This text is bold</b>
