@@ -14,17 +14,17 @@
 |    class02|[html and css and js](class02)               |
 |    class03|[html and css and js](class03)               |
 |    class04|[html links and css layout and js using function] (class04)              |
-|    read04|[]()               |
-|    read05|[]()               |
-|    read06|[]()               |
-|    read07|[]()               |
-|    read08|[]()               |
-|    read09|[]()               |
-|    read10|[]()               |
-|    read12|[]()               |
-|    read13|[]()               |
-|    read14|[]()               |
-|    read15|[]()               |
+|   class05|[html color text image](class05)               |
+|    class06|[]()               |
+|    class07|[]()               |
+|    class08|[]()               |
+|   class09[]()               |
+|    class010[]()               |
+|    class11|[]()               |
+|    class12|[]()               |
+|    class13|[]()               |
+|    class14[]()               |
+|    class115|[]()               |
 =======
 
 ## Welcome to GitHub Pages
