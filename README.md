@@ -16,7 +16,7 @@
 |    class04|[html links and css layout and js using function] (class04)              |
 |   class05|[html color text image](class05)               |
 |    class06|[object and the DOM in js](class06)               |
-|    class07|[]()               |
+|    class07|[object and method and function](class07)               |
 |    class08|[]()               |
 |   class09[]()               |
 |    class010[]()               |

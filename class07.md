@@ -1,3 +1,36 @@
+# **What is HTML table?**
+
+The HTML <table> element represents tabular data — that is, information presented in a two-dimensional table comprised of rows and columns of cells containing data
+
+
+The <table> tag defines an HTML table. Each table row is defined with a <tr> tag. ... Each table data/cell is defined with a <td> tag. By default, the text in <th> elements are bold and centered. By default, the text in <td> elements are regular and left-aligned
+ create table in HTML, use the <table> tag. A table consist of rows and columns, which can be set using one or more <tr>, <th>, and <td> elements. A table row is defined by the <tr> tag. To set table header, use the <th> tag
+ HTML <table> tag
+Updated: 08/02/2020 by Computer Hope
+HTML table tag
+When writing in HTML, the <table> tag is a block element used to create a table. It is useful when you want to represent data using rows and columns. The basic elements that make up a table include <th>, <td>, and <tr>. The following sections contain information about the <table> tag, including an example of it in use, and related attributes and browser compatibility.
+<table class="mtable2 tab">
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr class="tcw">
+    <td>March</td>
+    <td>$200</td>
+  </tr>
+  <tr class="tcw">
+    <td>April</td>
+    <td>$300</td>
+  </tr>
+  <tr class="tcw">
+    <td>May</td>
+    <td>$250</td>
+  </tr>
+</table>
+
+
+
+
 # the function and object and method in javascript
 
 **Method**
