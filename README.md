@@ -17,8 +17,8 @@
 |   class05|[html color text image](class05)               |
 |    class06|[object and the DOM in js](class06)               |
 |    class07|[object and method and function](class07)               |
-|    class08|[]()               |
-|   class09[]()               |
+|    class08|[layoutcss](class08)               |
+|   class09[form in html and css](class09)               |
 |    class010[]()               |
 |    class11|[]()               |
 |    class12|[]()               |
