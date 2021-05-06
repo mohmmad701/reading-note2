@@ -19,7 +19,7 @@
 |    class07|[object and method and function](class07)               |
 |    class08|[layoutcss](class08)               |
 |   class09[form in html and css](class09)               |
-|    class010[]()               |
+|    class10[depug js](class10)               |
 |    class11|[]()               |
 |    class12|[]()               |
 |    class13|[]()               |
