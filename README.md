@@ -20,11 +20,11 @@
 |    class08|[layoutcss](class08)               |
 |   class09[form in html and css](class09)               |
 |    class10[depug js](class10)               |
-|    class11|[]()               |
+|    class11|[Assorted Topics](class11)               |
 |    class12|[]()               |
 |    class13|[]()               |
 |    class14[]()               |
-|    class115|[]()               |
+|    class15|[]()               |
 =======
 
 ## Welcome to GitHub Pages
