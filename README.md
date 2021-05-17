@@ -21,7 +21,7 @@
 |   class09[form in html and css](class09)               |
 |    class10[depug js](class10)               |
 |    class11|[Assorted Topics](class11)               |
-|    class12|[]()               |
+|    class12|[Docs for the HTML <canvas> Element & Chart.js](class12)               |
 |    class13|[]()               |
 |    class14[]()               |
 |    class15|[]()               |
