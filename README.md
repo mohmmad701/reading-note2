@@ -17,12 +17,12 @@
 |   class05|[html color text image](class05)               |
 |    class06|[object and the DOM in js](class06)               |
 |    class07|[object and method and function](class07)               |
-|    class08|[layoutcss](class08)               |
+|    class08|[layoutcss](class08)          |
 |   class09[form in html and css](class09)               |
-|    class10[depug js](class10)               |
+|    class10[depug js](class10)            |
 |    class11|[Assorted Topics](class11)               |
 |    class12|[Docs for the HTML <canvas> Element & Chart.js](class12)               |
-|    class13|[]()               |
+|    class13|[localstorge](class13)               |
 |    class14[]()               |
 |    class15|[]()               |
 =======
