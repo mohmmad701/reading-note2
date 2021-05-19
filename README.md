@@ -23,7 +23,7 @@
 |    class11|[Assorted Topics](class11)               |
 |    class12|[Docs for the HTML <canvas> Element & Chart.js](class12)               |
 |    class13|[localstorge](class13)               |
-|    class14[]()               |
+|    class14[transform ](class14)               |
 |    class15|[]()               |
 =======
 
